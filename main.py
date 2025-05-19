@@ -1,3 +1,6 @@
+# virtual env to use: python 3.10.17 ('nyc-airbnb-dev')
+# to login to wandb, run this bash command in the terminal: export WANDB_API_KEY=my_key_here
+
 import json
 
 import mlflow
